@@ -1,2 +1,2 @@
-export const Two = 1
+export const Two = 2
 export const One = 1
